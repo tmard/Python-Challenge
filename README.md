@@ -1,12 +1,14 @@
-Python-Challenge
+**Python-Challenge**
 
 Entering the world of programming with Python. 
+
 
 
 
 Background
 
 Application of Python programming for two real-world scenarios.  
+
 
 
 
@@ -36,6 +38,7 @@ PyPoll
 
 
 Both the PyBank and PyPoll printed the analysis to the terminal and exported a text file to the appropriate file folder with the results. 
+
 
 
 
