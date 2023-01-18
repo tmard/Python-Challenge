@@ -1,10 +1,10 @@
-**Python-Challenge**
+## Python-Challenge
 
 Entering the world of programming with Python.
 
 
 
-## Background
+# Background
 
 
 Application of Python programming for two real-world scenarios.  
@@ -12,7 +12,7 @@ Application of Python programming for two real-world scenarios.
 
 
 
-## Methods
+# Methods
 
 PyBank
 
